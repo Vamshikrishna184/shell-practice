@@ -4,5 +4,5 @@ echo "Vamshi in love"
 
 MOVIES=("court" "Hit" "Pushpa2" 'Love')
 
-echo "First movie is : $MOVIES[@]"
+echo "First movie is : ${MOVIES[@]}"
 
